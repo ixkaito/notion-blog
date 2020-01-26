@@ -52,8 +52,6 @@ export default ({ posts = [] }) => {
           <p className={blogStyles.noPosts}>There are no posts yet</p>
         )}
         {posts
-          .slice(0)
-          .reverse()
           .map(post => {
             return (
               <div className={blogStyles.postPreview} key={post.Slug}>
