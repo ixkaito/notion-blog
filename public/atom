@@ -4,18 +4,18 @@
     <subtitle>Blog</subtitle>
     <link href="/atom" rel="self" type="application/rss+xml"/>
     <link href="/" />
-    <updated>2020-01-26T08:56:08.613Z</updated>
+    <updated>2020-01-26T09:37:11.276Z</updated>
     <id>My Notion Blog</id>
     <entry>
-      <id>/blog/notion-blog-を試してみました</id>
+      <id>/blog/notion-blog</id>
       <title>Notion Blog を試してみました</title>
-      <link href="/blog/notion-blog-を試してみました"/>
-      <updated>2020-01-25T15:00:00.246Z</updated>
+      <link href="/blog/notion-blog"/>
+      <updated>2020-01-25T15:00:00.384Z</updated>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
-          <p>Notion Blog を実際に試してみた結果を簡単にまとめてみました。ちなみにこの投稿自体が Notion Blog を使って公開してみました。ヘッダーのメニューをいろいろと触ってみてください。</p>
+          <p>Notion Blog を実際に試してみた結果を簡単にまとめてみました。ちなみにこの投稿自体が Notion Blog を使って公開しています。ヘッダーのメニューもいろいろと触ってみてください。</p>
           <p class="more">
-            <a href="/blog/notion-blog-を試してみました">Read more</a>
+            <a href="/blog/notion-blog">Read more</a>
           </p>
         </div>
       </content>
@@ -25,7 +25,7 @@
       <id>/blog/notion-blog-test</id>
       <title>Notion Blog Test</title>
       <link href="/blog/notion-blog-test"/>
-      <updated>2020-01-24T15:00:00.248Z</updated>
+      <updated>2020-01-24T15:00:00.384Z</updated>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
           <p>Preview test lorem ipsum dolor sit amet consectetur adipiscing elit vivamus consequat ut viverra litora diam himenaeos lacus penatibus enim dui habitasse semper per sociis dictumst molestie feugiat primis morbi vulputate at.</p>
